@@ -1,7 +1,6 @@
 ## Hi I'm Alamin Sarker <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi">
 
-I'm Alamin Sarker a Full Stack Web Developer . I am also working with python with ML .. after thats i want to create AI Software future.
-
+I'm Alamin Sarker a Full Stack Web Developer . I am also working with MERN Stack Projects.. 
 <!-- and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials. -->
 
 :mailbox: Reach me out!
