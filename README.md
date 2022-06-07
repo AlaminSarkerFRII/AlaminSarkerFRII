@@ -33,6 +33,6 @@ I'm Alamin Sarker a Full Stack Web Developer . I am also working with MERN Stack
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=AlaminSarkerFRII&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=AlaminSarkerFRII&theme=tokyonight&contribs,prs)
 
 </details>
