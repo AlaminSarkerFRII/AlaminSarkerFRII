@@ -27,6 +27,12 @@ I'm Alamin Sarker a Full Stack Web Developer . I am also working with MERN Stack
 - :email: ipenywis@gmail.com -->
 
 
+### Deploy 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4fca9593-dff6-489a-af92-87d9865b2581/deploy-status)](https://app.netlify.com/sites/alamin-sarker-portfolio-mern-stack-developer/deploys)
+
+
+
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlaminSarkerFRII.AlaminSarkerFRII)
