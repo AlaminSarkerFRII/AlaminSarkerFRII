@@ -1,19 +1,18 @@
-## Hi I'm Alamin Sarker
-<!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="10px" alt="hi"> -->
 
-I'm Alamin Sarker a Full Stack Web Developer . I am also working with MERN Stack Projects.. 
-<!-- and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials. -->
+# Hi there 👋, my name is Alamin Sarker
+#### I am a Full Stack Developer (MERN) 
 
-:mailbox: Reach me out!
+I am an enthusiastic developer who like to explore new technologies in order to keep a pace with the competitive world.
 
-[![Twitter Badge](https://img.shields.io/badge/-@AlaminSarker01-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AlaminSarker01)](https://twitter.com/AlaminSarker01) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://studio.youtube.com/channel/UCIZHrlIIR1u5FE6_67mnPhA) [![Linkedin Badge](https://img.shields.io/badge/-alamin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamin-sarker-b2676522a/) 
-<!-- TODO: Add last video link -->
+- 🔭 I’m currently working on next.js Projects 
+- 🌱 I’m currently learning React Native 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about React.js Development, MERN Stack Development 
+- 📫 How to reach me: alamin.sarker4241@gmail.com 
+- 😄 Pronouns: Developer 
+- ⚡ Fun fact: staying with new things 
 
-- 🔭 I’m currently working at @My Shops [own website creating]
-- 🤔 I’m looking for help with Outstanding Python and ML learning.
-- 📫 How to reach me: alamin.sarker4241@gmail.com.
-- 😄 Pronouns: Alamin , Developer
-- ⚡ Fun fact: I play games and codding more and more 
+<!-- skills -->
 
 #### Top Technologies-
 
@@ -22,23 +21,14 @@ I'm Alamin Sarker a Full Stack Web Developer . I am also working with MERN Stack
 
 
 
-<!-- #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaminSarkerFRII)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaminSarkerFRII&show_icons=true&count_private=true)  
 
-### Deploy 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlaminSarkerFRII)  
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4fca9593-dff6-489a-af92-87d9865b2581/deploy-status)](https://app.netlify.com/sites/alamin-sarker-portfolio-mern-stack-developer/deploys)
+![GitHub metrics](https://metrics.lecoq.io/AlaminSarkerFRII)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlaminSarkerFRII)  
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AlaminSarkerFRII.AlaminSarkerFRII)
-
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=AlaminSarkerFRII&theme=tokyonight&contribs,prs)
-
-</details>
+![Profile views](https://gpvc.arturio.dev/AlaminSarkerFRII)  
