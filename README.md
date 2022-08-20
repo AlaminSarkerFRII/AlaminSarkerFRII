@@ -5,13 +5,14 @@ Hi there 👋, my name is <br/>
 
 I am an enthusiastic developer who like to explore new technologies in order to keep a pace with the competitive world.
 
-- 🔭 I’m currently working on next.js Projects 
+- 🔭 I’m currently working on FRII
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about React.js Development, MERN Stack Development 
 - 📫 How to reach me: alamin.sarker4241@gmail.com 
 - 😄 Pronouns: Developer 
 - ⚡ Fun fact: staying with new things 
+- 😄 Very Interested in AI
 
 <!-- profile view -->
 
