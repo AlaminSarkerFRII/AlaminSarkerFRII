@@ -1,5 +1,5 @@
 
-Hi there 👋, my name is <br/> 
+Hi there 👋 <br/> 
 # I am a Full Stack Developer (MERN) 
 I am an enthusiastic developer who like to explore new technologies in order to keep a pace with the competitive world.
 
