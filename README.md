@@ -1,8 +1,6 @@
 
 Hi there 👋, my name is <br/> 
-# Alamin Sarker
-## I am a Full Stack Developer (MERN) 
-
+# I am a Full Stack Developer (MERN) 
 I am an enthusiastic developer who like to explore new technologies in order to keep a pace with the competitive world.
 
 - 🔭 I’m currently working on FRII
