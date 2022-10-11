@@ -3,7 +3,7 @@ Hi there 👋 <br/>
 # I am a Full Stack Developer (MERN) 
 I am an enthusiastic developer who like to explore new technologies in order to keep a pace with the competitive world.
 
-- 🔭 I’m currently working on FRII
+- 🔭 I’m currently working on MERN Stack Projects
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about React.js Development, MERN Stack Development 
