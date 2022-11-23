@@ -26,7 +26,6 @@ I am an enthusiastic developer who like to explore new technologies in order to 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaminSarkerFRII&layout=compact&theme=dark)
 
 
-
 <!-- work experience section starts here  -->
 
 ### 💼 &nbsp; Employment History
@@ -43,13 +42,12 @@ I am an enthusiastic developer who like to explore new technologies in order to 
 
 ### 👨🏻‍🎓 &nbsp; Education
 
-
 1. B.Sc. in Computer Science & Engineering  
    Bangladesh University  
    Dhaka, Bangladesh.
 3. Diploma in Enginnering in Computer Science & Enginnering
-   Feni Govt. Polytechnic Institute
-   Feni,Bangladesh.
+   Feni Govt Polytechnic Institute
+   Feni, Bangladesh.
 
 <br />
 
