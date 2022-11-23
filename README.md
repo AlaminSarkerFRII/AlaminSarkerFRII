@@ -1,12 +1,12 @@
 
 Hi there 👋 <br/> 
 # I am a Full Stack Developer (MERN) 
-I am an enthusiastic developer who like to explore new technologies in order to keep a pace with the competitive world.
+<p align="justify"> I am an enthusiastic developer who like to explore new technologies in order to keep a pace with the competitive world.I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.</p>
 
 - 🔭 I’m currently working on MERN Stack Projects
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about React.js Development, MERN Stack Development 
+- 💬 Ask me about React.js Development, MERN Stack Development, Python  
 - 📫 How to reach me: alamin.sarker4241@gmail.com 
 - 😄 Pronouns: Developer 
 - ⚡ Fun fact: staying with new things 
@@ -15,6 +15,10 @@ I am an enthusiastic developer who like to explore new technologies in order to 
 <!-- profile view -->
 
 ![Profile views](https://gpvc.arturio.dev/AlaminSarkerFRII)
+
+<!-- profile view End -->
+
+<!-- Top Technologies- -->
 
 ### Top Technologies-
 
@@ -25,7 +29,7 @@ I am an enthusiastic developer who like to explore new technologies in order to 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaminSarkerFRII&layout=compact&theme=dark)
 
-
+<br />
 <!-- work experience section starts here  -->
 
 ### 💼 &nbsp; Employment History
@@ -79,4 +83,17 @@ I am an enthusiastic developer who like to explore new technologies in order to 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlaminSarkerFRII)  
 <!-- ![GitHub metrics](https://metrics.lecoq.io/AlaminSarkerFRII)   -->
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlaminSarkerFRII)  
+
+<br />
+<!-- my Salutation  -->
+
+---
+
+Thanks for going through my Portfolio.
+All rights reserved by Alamin Sarker @2021
+
+---
+
+
+
 
