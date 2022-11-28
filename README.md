@@ -34,10 +34,11 @@ Hi there 👋 <br/>
 
 ### 💼 &nbsp; Employment History
 
-| Position            | Institute                                   | Duration            | Location           |
-| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Software Enginner   | Technometrics                               | Dec 2022 - Running  | Dhaka, Bangladesh  |
-| Full stack Developer| Top IT Ltd                                  | Sept 2022 - Nov-2022| Dhaka, Bangladesh  |
+| Position                | Institute                                   | Duration            | Location           |
+| ----------------------- | ------------------------------------------- | ------------------- | ------------------ |
+| Software Enginner       | Technometrics                               | Dec 2022 - Running  | Dhaka, Bangladesh  |
+| Full stack Developer    | Top IT Ltd                                  | Sept 2022 - Nov-2022| Dhaka, Bangladesh  |
+| Executive IT Depertment | Faizur Rahman Ideal Institute               | Sept 2022 - Nov-2022| Dhaka, Bangladesh  |
 
 
 <br />
