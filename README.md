@@ -38,7 +38,8 @@ Hi there 👋 <br/>
 | ----------------------- | ------------------------------------------- | ------------------- | ------------------ |
 | Software Enginner       | Technometrics                               | Dec 2022 - Running  | Dhaka, Bangladesh  |
 | Full stack Developer    | Top IT Ltd                                  | Sept 2022 - Nov-2022| Dhaka, Bangladesh  |
-| Executive IT Depertment | Faizur Rahman Ideal Institute               | Sept 2022 - Nov-2022| Dhaka, Bangladesh  |
+| Executive IT Depertment | Faizur Rahman Ideal Institute               | Jan 2020 - Aug-2022 | Dhaka, Bangladesh  |
+| Software Operation      | P-Soft Software Company                     | Jan 2018 - Dec-2019 | Dhaka, Bangladesh  |
 
 
 <br />
