@@ -19,8 +19,7 @@ Hi there 👋 <br/>
 <!-- profile view End -->
 
 <!-- Top Technologies- -->
-
-### Top Technologies-
+<h3 align="left">Top Technologies:</h3>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express Badge](https://img.shields.io/badge/-express-e535ab?style=for-the-badge&labelColor=black&logo=express.js&logoColor=e535ab)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-e535ab?style=for-the-badge&labelColor=black&logo=mongodb.com&logoColor=#47A248)](#)
 
@@ -32,9 +31,6 @@ Hi there 👋 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AlaminSarkerFRII&show_icons=true&locale=en&layout=compact&alt=AlaminSarkerFRII)
  -->
 <br />
-
-
-
 <!---##-------------------->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,11 +45,11 @@ Hi there 👋 <br/>
 
 
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaminSarkerFRII&show_icons=true&locale=en&layout=compact" alt="AlaminSarkerFRII" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaminSarkerFRII&show_icons=true&locale=en&layout=compact" alt="AlaminSarkerFRII"&theme=dark/></p>
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlaminSarkerFRII&show_icons=true&locale=en" alt="AlaminSarkerFRII" /></p>
+![GitHub Activity Graph](https://github-readme-stats-beryl.vercel.app/api?username=AlaminSarkerFRII&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
 
 
 <!-- work experience section starts here  -->
@@ -108,8 +104,6 @@ Hi there 👋 <br/>
 
 
 #### Activities 
-
-![GitHub Activity Graph](https://github-readme-stats-beryl.vercel.app/api?username=AlaminSarkerFRII&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
 <!-- ![GitHub metrics](https://metrics.lecoq.io/AlaminSarkerFRII)   -->
 ![GitHub streak stats](https://github-readme-stats-beryl.vercel.app/user=AlaminSarkerFRII)
 
