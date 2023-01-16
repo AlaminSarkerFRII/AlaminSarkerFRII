@@ -29,7 +29,7 @@ Hi there 👋 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=AlaminSarkerFRII&layout=compact&theme=dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminsarkerfrii&show_icons=true&locale=en&layout=compact" alt="alaminsarkerfrii" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaminSarkerFRII&show_icons=true&locale=en&layout=compact" alt="alaminsarkerfrii" /></p>
 
 <br />
 <!-- work experience section starts here  -->
