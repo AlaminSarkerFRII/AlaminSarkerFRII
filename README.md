@@ -27,7 +27,7 @@ Hi there 👋 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaminSarkerFRII&show_icons=true&count_private=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AlaminSarkerFRII&show_icons=true&locale=en&layout=compact" alt="AlaminSarkerFRII&theme=dark)
+![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs?username=AlaminSarkerFRII&show_icons=true&locale=en&layout=compact" alt="AlaminSarkerFRII"&theme=dark)
 
 <br />
 <!-- work experience section starts here  -->
