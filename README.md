@@ -13,8 +13,7 @@ Hi there 👋 <br/>
 - 😄 Very Interested in AI
 
 <!-- profile view -->
-
-![Profile views](https://gpvc.arturio.dev/AlaminSarkerFRII)
+![Profile views](https://komarev.com/ghpvc/?AlaminSarkerFRII=your-github-AlaminSarkerFRII&color=dc143c)
 
 <!-- profile view End -->
 <br/>
