@@ -63,8 +63,7 @@ Hi there 👋 <br/>
 ---------->
 
 <br/>
-
-![GitHub Activity Graph](https://github-readme-stats-beryl.vercel.app/api?username=AlaminSarkerFRII&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+![GitHub Activity Graph](https://github-readme-stats-beryl.vercel.app/apiusername=AlaminSarkerFRII&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
 
 
 <!-- work experience section starts here  -->
