@@ -12,6 +12,8 @@ Hi there 👋 <br/>
 - ⚡ Fun fact: staying with new things 
 - 😄 Very Interested in AI
 
+
+<br/>
 <!-- profile view -->
 
 ![Profile views](https://komarev.com/ghpvc/?AlaminSarkerFRII=AlaminSarkerFRII&color=dc143c)
