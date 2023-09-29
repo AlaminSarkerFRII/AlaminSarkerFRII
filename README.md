@@ -13,7 +13,8 @@ Hi there 👋 <br/>
 - 😄 Very Interested in AI
 
 <!-- profile view -->
-![Profile views](https://komarev.com/ghpvc/?AlaminSarkerFRII=your-github-AlaminSarkerFRII&color=dc143c)
+
+![Profile views](https://komarev.com/ghpvc/?AlaminSarkerFRII=AlaminSarkerFRII&color=dc143c)
 
 <!-- profile view End -->
 <br/>
