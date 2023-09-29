@@ -4,7 +4,7 @@ Hi there 👋 <br/>
 <p align="justify"> I am an enthusiastic developer who like to explore new technologies in order to keep a pace with the competitive world.I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.</p>
 
 - 🔭 I’m currently working as a software engineer at Technometrics.net 
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning Django and PostgreSQL
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about React.js Development, MERN Stack Development, Python  
 - 📫 How to reach me: alamin.sarker4241@gmail.com 
