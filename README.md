@@ -6,7 +6,7 @@ Hi there 👋 <br/>
 - 🔭 I’m currently working as a software engineer at Technometrics.net 
 - 🌱 I’m currently learning Django and PostgreSQL
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about React.js Development, MERN Stack Development, Python  
+- 💬 Ask me about React.js Development, Frontend Development, Python  
 - 📫 How to reach me: alamin.sarker4241@gmail.com 
 - 😄 Pronouns: Developer 
 - ⚡ Fun fact: staying with new things 
