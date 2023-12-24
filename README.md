@@ -1,7 +1,7 @@
 
 Hi there 👋 <br/> 
 # Software Engineer.
-<p align="justify"> I am software engineer who like to explore new technologies in order to keep a pace with the competitive world.I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.</p>
+<p align="justify"> 2 years experienced ( Frontend ) software engineer who like to explore new technologies in order to keep a pace with the competitive world.</p>
 
 - 🔭 I’m currently working as a software engineer at Technometrics.net 
 - 🌱 I’m currently learning Django and PostgreSQL
