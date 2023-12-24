@@ -1,7 +1,7 @@
 
 Hi there 👋 <br/> 
 # Software Engineer.
-<p align="justify"> 2 years experienced ( Frontend ) software engineer who like to explore new technologies in order to keep a pace with the competitive world.</p>
+<p align="justify"> 2 years experienced software engineer who like to explore new technologies in order to keep a pace with the competitive world.</p>
 
 - 🔭 I’m currently working as a software engineer at Technometrics.net 
 - 🌱 I’m currently learning Django and PostgreSQL
@@ -22,6 +22,7 @@ Hi there 👋 <br/>
 <br/>
 <!-- Top Technologies- -->
 <h3 align="left">Top Technologies && I code with:</h3>
+<hr>
 
 <div style="display:flex">
  
@@ -43,6 +44,7 @@ Hi there 👋 <br/>
 <!---##----------Tools---------->
 
 <h3 align="left">Tools:</h3>
+<hr>
 <p align="left">
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
@@ -91,7 +93,8 @@ Hi there 👋 <br/>
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
 
-### 👨🏻‍🎓 &nbsp; Education
+### 👨🏻‍🎓 &nbsp; Education : 
+<hr>
 
 1. B.Sc. in Computer Science & Engineering  
    Bangladesh University  
@@ -110,7 +113,8 @@ Hi there 👋 <br/>
 
 <!-- my languages section starts here  -->
 
-### Languages:
+### Languages :
+<hr>
 
 - 🇧🇩 Bangla : Native
 - US󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
@@ -131,7 +135,8 @@ Hi there 👋 <br/>
 
 <!-- my Salutation  -->
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo : 
+<hr>
 ![](https://github-contributor-stats.vercel.app/api?username=AlaminSarkerFRII&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br/>
