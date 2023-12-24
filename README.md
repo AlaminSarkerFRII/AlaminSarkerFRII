@@ -49,34 +49,18 @@ Hi there 👋 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<hr>
-
-<p align="left">
-  <a href="https://github.com/AlaminSarkerFRII?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<br/>
-<hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/AlaminSarkerFRII">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaminSarkerFRII&theme=radical&border=7F3FBF&background=0D1117" alt="AlaminSarker's GitHub streak"/>
   </a>
 </p>
 
 <br/>
 <br/>
-<br/>
-<br/>
-
 <p align="center">
   <a href="https://github.com/AlaminSarkerFRII">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlaminSarkerFRII&theme=radical" alt="AlaminSarker's GitHub Contribution"/>
   </a>
 </p>
 
@@ -166,11 +150,6 @@ Hi there 👋 <br/>
 <!-- my sports and games section ends here  -->
 
 <!-- my Salutation  -->
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlaminSarkerFRII&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AlaminSarkerFRII&limit=5&theme=dark&combine_all_yearly_contributions=true)
