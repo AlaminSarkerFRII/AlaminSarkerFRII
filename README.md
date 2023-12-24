@@ -1,5 +1,14 @@
 
 Hi there 👋 <br/> 
+
+<!-- profile view -->
+
+<a href="https://komarev.com/ghpvc/?username=AlaminSarkerFRII">
+  <img align="right" src="https://komarev.com/ghpvc/?username=AlaminSarkerFRII&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+<!-- profile view End -->
+
 # About Me.
 <p align="justify"> 2 years experienced software engineer who like to explore new technologies in order to keep a pace with the competitive world.</p>
 
@@ -14,13 +23,6 @@ Hi there 👋 <br/>
 
 
 <br/>
-<!-- profile view -->
-
-<a href="https://komarev.com/ghpvc/?username=AlaminSarkerFRII">
-  <img align="right" src="https://komarev.com/ghpvc/?username=AlaminSarkerFRII&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-<!-- profile view End -->
 <br/>
 <!-- Top Technologies- -->
 <h3 align="left">Top Technologies && I code with:</h3>
