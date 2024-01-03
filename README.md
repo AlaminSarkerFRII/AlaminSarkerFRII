@@ -125,7 +125,7 @@ Hi there 👋 <br/>
 - 🇮🇳 Hindi : Intermediate
 - 🇯🇵 Japanies : Basic ( Learning )
 - 🇳🇴 Norwegian : Beginner.<br />
-  <small> ( I like to Leanr Languages of other's countries . so i tried ) </small>
+  <small> ( I like to Learn Languages of other's countries . so i tried ) </small>
   <br />
 
      
