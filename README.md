@@ -103,8 +103,8 @@ Hi there 👋 <br/>
 1. B.Sc. in Computer Science & Engineering  
    Bangladesh University  
    Dhaka, Bangladesh.
-2. Diploma in Enginnering in - Computer Science & Enginnering ( 2017 )
-   Feni Govt Polytechnic Institute
+2. Diploma in Enginnering in - Computer Science & Enginnering ( 2017 ) <br/>
+   Feni Govt Polytechnic Institute. <br/>
    Feni, Bangladesh.
 3. Secondary School Certificate - ( SSC - 2012 )
    Section - Science 
