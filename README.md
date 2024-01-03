@@ -121,10 +121,14 @@ Hi there 👋 <br/>
 <hr>
 
 - 🇧🇩 Bangla : Native
-- US󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🇺🇸 US󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
 - 🇮🇳 Hindi : Intermediate
-- Japanies : Basic(Learning)
+- 🇯🇵 Japanies : Basic ( Learning )
+- 🇳🇴 Norwegian : Beginner.
+  <small> ( I like to Leanr Languages of other's countries . so i tried ) </small>
   <br />
+
+     
 
 <!-- my sports and game section starts here  -->
 
