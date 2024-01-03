@@ -100,16 +100,16 @@ Hi there 👋 <br/>
 ### 👨🏻‍🎓 &nbsp; Education : 
 <hr>
 
-1. B.Sc. in Computer Science & Engineering  
-   Bangladesh University  
+1. B.Sc. in Computer Science & Engineering  <br/>
+   Bangladesh University ( Evening Batch )( 2022 - Running ) <br/> 
    Dhaka, Bangladesh.
 2. Diploma in Enginnering in - Computer Science & Enginnering ( 2017 ) <br/>
    Feni Govt Polytechnic Institute. <br/>
    Feni, Bangladesh.
-3. Secondary School Certificate - ( SSC - 2012 )
-   Section - Science 
-   Dilalpur High School.
-   Dilalpur , Badarganj , Rangpur . 
+3. Secondary School Certificate - ( SSC - 2012 ) <br/>
+   Section - Science <br/>
+   Dilalpur High School.<br/>
+   Dilalpur, Badarganj, Rangpur, Bangladesh. 
 
 <br />
 
