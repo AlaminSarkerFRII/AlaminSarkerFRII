@@ -73,12 +73,11 @@ Hi there 👋 <br/>
 
 <a> 
     <a href="https://github.com/AlaminSarkerFRII"><img alt="Alamin Sarker Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AlaminSarkerFRII&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-<!-- <a href="https://github.com/AlaminSarkerFRII"><img alt="Alamin Sarker Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AlaminSarkerFRII&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaminSarkerFRII&layout=compact)](https://github.com/AlaminSarkerFRII/github-readme-stats)
+<a href="https://github.com/AlaminSarkerFRII"><img alt="Alamin Sarker Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AlaminSarkerFRII&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
+[![Alamin Sarker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlaminSarkerFRII)](https://github.com/AlaminSarkerFRII/github-readme-stats)
 
 
 <br/>
