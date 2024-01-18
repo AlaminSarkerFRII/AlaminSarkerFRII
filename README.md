@@ -82,9 +82,7 @@ Hi there 👋 <br/>
 <br/>
 <hr/>
 
-[![Alamin Sarker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlaminSarkerFRII)](https://github.com/anuraghazra/github-readme-stats)
-
-[![AlaminSarker's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlaminSarkerFRII)](https://github.com/AlaminSarkerFRII/github-readme-stats)
+[![AlaminSarker's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlaminSarkerFRII)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
