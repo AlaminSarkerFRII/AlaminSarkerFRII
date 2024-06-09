@@ -10,16 +10,16 @@ Hi there 👋 <br/>
 <!-- profile view End -->
 
 # About Me.
-<p align="justify"> 2 years experienced software engineer who like to explore new technologies in order to keep a pace with the competitive world.</p>
+<p align="justify"> 2+ years experienced software engineer who like to explore new technologies in order to keep a pace with the competitive world.</p>
 
 - 🔭 I’m currently working as a software engineer at Technometrics.net 
-- 🌱 I’m currently learning Django and PostgreSQL
+- 🌱 I’m currently working on BGB and SIMS projects.
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about React.js Development, Frontend Development, Python  
 - 📫 How to reach me: alamin.sarker4241@gmail.com 
 - 😄 Pronouns: Developer 
 - ⚡ Fun fact: staying with new things 
-- 😄 Very Interested in AI
+- 😄 Very Interested in AI and Data science
 - Leetcode Profile : https://leetcode.com/Alamin_Sarker/
 
 
