@@ -10,7 +10,7 @@ Hi there 👋 <br/>
 <!-- profile view End -->
 
 # About Me.
-<p align="justify"> 2+ years experienced software engineer who like to explore new technologies in order to keep a pace with the competitive world.</p>
+<p align="justify"> Software engineer with over 2 years of experience, passionate about exploring new technologies to stay ahead in a competitive landscape. Continuously driven to learn, adapt, and innovate</p>
 
 - 🔭 I’m currently working as a software engineer at Technometrics.net 
 - 🌱 I’m currently working on BGB and SIMS projects.
