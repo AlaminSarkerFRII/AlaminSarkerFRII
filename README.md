@@ -9,6 +9,11 @@ Hi there 👋 <br/>
 
 <!-- profile view End -->
 
+<!---- Motion ------>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Technology+has+no+limitations+for+me.+I+am+willing+to+explore+anything+new.)](https://git.io/typing-svg)
+
+
 # About Me.
 <p align="justify"> Software engineer with over 3 years of experience, passionate about exploring new technologies to stay ahead in a competitive landscape. Continuously driven to learn, adapt, and innovate</p>
 
@@ -17,11 +22,12 @@ Hi there 👋 <br/>
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Python, React.js Development, Frontend Development, 
 - 📫 How to reach me: alamin.sarker4241@gmail.com / <a href="https://www.linkedin.com/in/alamin-sarker-b2676522a/"> Linkedin</a>
-- 🌱 Learning Ml & Data Science
+- 🌱 Currently exploring Machine Learning and Data Science to expand my skill set.
 - 😄 Pronouns: Developer 
 - ⚡ Fun fact: staying with new things 
 - 😄 Very Interested in AI and Data science
-- Leetcode Profile : https://leetcode.com/Alamin_Sarker/
+- 👋 Core Concepts: Data Structures, Object-Oriented Programming (OOP)
+- 😄 Leetcode Profile : https://leetcode.com/Alamin_Sarker/
 
 
 <br/>
@@ -38,11 +44,9 @@ Hi there 👋 <br/>
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 [![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
 [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=white)](#)
-[![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 </div>
