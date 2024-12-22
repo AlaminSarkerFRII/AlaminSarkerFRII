@@ -15,8 +15,9 @@ Hi there 👋 <br/>
 - 🔭 I’m currently working as a software engineer at Technometrics.net 
 - 🌱 I’m currently working on BGB and SIMS projects.
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about React.js Development, Frontend Development, Python  
-- 📫 How to reach me: alamin.sarker4241@gmail.com 
+- 💬 Ask me about Python, React.js Development, Frontend Development, 
+- 📫 How to reach me: alamin.sarker4241@gmail.com / <a href="https://www.linkedin.com/in/alamin-sarker-b2676522a/"> Linkedin</a>
+- 🌱 Learning Ml & Data Science
 - 😄 Pronouns: Developer 
 - ⚡ Fun fact: staying with new things 
 - 😄 Very Interested in AI and Data science
