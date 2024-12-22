@@ -10,9 +10,7 @@ Hi there 👋 <br/>
 <!-- profile view End -->
 
 <!---- Motion ------>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Technology+has+no+limitations+for+me.+I+am+willing+to+explore+anything+new.)](https://git.io/typing-svg).[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Technology+has+no+limitations+for+me.;+I+am+willing+to+explore+anything+new.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Technology+has+no+limitations+for+me.;+I+am+willing+to+explore+anything+new.)](https://git.io/typing-svg)
 
 # About Me.
 <p align="justify"> Software engineer with over 3 years of experience, passionate about exploring new technologies to stay ahead in a competitive landscape. Continuously driven to learn, adapt, and innovate</p>
