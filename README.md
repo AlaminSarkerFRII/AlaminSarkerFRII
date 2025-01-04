@@ -13,7 +13,7 @@ Hi there 👋 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=There+are+no+limitations+to+me+in+technology.;I+am+willing+to+explore+anything+new.)](https://git.io/typing-svg)
 
 # About Me.
-<p align="justify"> Software engineer with over 3 years of experience, passionate about exploring new technologies to stay ahead in a competitive landscape. Continuously driven to learn, adapt, and innovate</p>
+<p align="justify"> Software engineer with over 2.5+ years of experience, passionate about exploring new technologies to stay ahead in a competitive landscape. Continuously driven to learn, adapt, and innovate</p>
 
 - 🔭 I’m currently working as a software engineer at Technometrics.net
 - 🌱 Currently exploring Machine Learning and Data Science to expand my skill set.
