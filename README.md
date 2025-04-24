@@ -16,13 +16,14 @@ Hi there 👋 <br/>
 <p align="justify"> Software engineer with over 3(+yrs) years of experience, passionate about exploring new technologies to stay ahead in a competitive landscape. Continuously driven to learn, adapt, and innovate</p>
 
 - 🔭 I’m currently working as a software engineer at Technometrics.net
-- 🌱 Currently exploring Machine Learning and Data Science to expand my skill set.
 - 🌱 I’m currently working on BGB and SIMS projects.
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Python, React.js Development, Frontend Development, 
+- 🌱 Currently exploring Data Science to expand my skill set.
+- 👯 I’m looking to collaborate on Github.
+- 🌱 Open to discuss about any projects idea and implement to visualization.
+- 💬 Ask me about Python, React.js Development, Frontend Development and Full-stack Developement
 - 📫 How to reach me: alamin.sarker4241@gmail.com / <a href="https://www.linkedin.com/in/alamin-sarker-b2676522a/"> Linkedin</a>
-- 😄 Pronouns: Developer 
-- ⚡ Fun fact: staying with new things 
+- 😄 Pronouns: Engineer / Cool Coder 
+- ⚡ Fun fact: staying with new things in the tech world.
 - 😄 Very Interested in AI and Data science
 - 👋 Core Concepts: Data Structures, Object-Oriented Programming (OOP)
 - 😄 Leetcode Profile : https://leetcode.com/Alamin_Sarker/
