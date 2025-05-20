@@ -17,7 +17,7 @@ Hi there 👋 <br/>
 
 - 🔭 I’m currently working as a software engineer at Technometrics.net
 - 🌱 I’m currently working on BGB and SIMS projects.
-- 🌱 Currently exploring Data Science to expand my skill set.
+- 🌱 Currently exploring open-source Next.js + Django SaaS boilerplate.
 - 👯 I’m looking to collaborate on Github.
 - 🌱 Open to discuss about any projects idea and implement to visualization.
 - 💬 Ask me about Python, React.js Development, Frontend Development and Full-stack Developement
