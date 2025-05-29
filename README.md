@@ -111,8 +111,8 @@ Hi there 👋 <br/>
    - Bangladesh University ( Evening Batch )  <br/>
    - ( 08.2022 - 12.2025 Expected ) <br/>
    - Dhaka, Bangladesh.
-3. Diploma in Enginnering. <br/>
-   - Computer Science & Enginnering ( 2017 ) <br/>
+3. Diploma in Engineering. <br/>
+   - Computer Science & Engineering ( 2017 ) <br/>
    - Feni Govt Polytechnic Institute. <br/>
    - Feni, Bangladesh.
 4. Secondary School Certificate - ( SSC - 2012 ) <br/>
