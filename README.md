@@ -109,7 +109,7 @@ Hi there 👋 <br/>
 
 1. B.Sc. in Computer Science & Engineering  <br/>
    - Bangladesh University ( Evening Batch )  <br/>
-   - ( 08.2022 - 12.2025 Expected ) <br/>
+   - ( 08.2022 - 01.2026 ) <br/>
    - Dhaka, Bangladesh.
 3. Diploma in Engineering. <br/>
    - Computer Science & Engineering ( 2017 ) <br/>
@@ -131,13 +131,8 @@ Hi there 👋 <br/>
 
 - 🇧🇩 Bangla : Native
 - 🇺🇸 US󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
-- 🇮🇳 Hindi : Intermediate
-- 🇯🇵 Japanies : Basic ( Learning )
-- 🇳🇴 Norwegian : Beginner.<br />
-  <small> ( I like to Learn Languages of other's countries . so i tried ) </small>
-  <br />
+- 🇳🇴 French : Beginner.<br />
 
-     
 
 <!-- my sports and game section starts here  -->
 
